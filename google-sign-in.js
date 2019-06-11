@@ -25,3 +25,5 @@ var googleUser = {};
         alert(JSON.stringify(error, undefined, 2));
       });
   }
+
+startApp();
