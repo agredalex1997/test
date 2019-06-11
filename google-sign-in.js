@@ -1,3 +1,5 @@
+console.log('holi :3');
+
 var googleUser = {};
   var startApp = function () {
     gapi.load('auth2', function () {
